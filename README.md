@@ -45,3 +45,5 @@ The unit tests for this project are in `test_module.py`. We imported the tests f
 ### Submitting
 
 Copy your project's URL and submit it to freeCodeCamp.
+
+## Submitted at: [solution](https://replit.com/@MoloMunyansanga/boilerplate-time-calculator-6#time_calculator.py)
